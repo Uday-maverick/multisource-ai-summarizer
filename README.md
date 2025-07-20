@@ -28,7 +28,8 @@ A powerful Streamlit app that uses **LangChain**, **Groq-hosted LLMs**, and **mu
 
 ## 📸 Demo
 
-<img src="https://user-images.githubusercontent.com/your-demo.png" width="700" alt="App Screenshot">
+<img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/f6de644a-041a-462d-bb9f-f00ae1854340" />
+
 
 ---
 
